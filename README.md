@@ -15,4 +15,4 @@ mv ~/.cache/nvim{,.bak}
 
 # Clone the starter
 
-git clone https://github.com/LazyVim/starter](https://github.com/gustavocaldassouza/nvim-config ~/.config/nvim
+git clone https://github.com/gustavocaldassouza/nvim-config ~/.config/nvim
