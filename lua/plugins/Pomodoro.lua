@@ -1,6 +1,6 @@
 return {
-  {
-    "wthollingsworth/pomodoro.nvim",
-    requires = "MunifTanjim/nui.nvim",
-  },
+  --   {
+  --     "wthollingsworth/pomodoro.nvim",
+  --     requires = "MunifTanjim/nui.nvim",
+  --   },
 }
